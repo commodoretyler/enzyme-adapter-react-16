@@ -15,22 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/enzyme.git"
+    "url": "git+https://github.com:commodoretyler/enzyme-adapter-react-16.git"
   },
-  "keywords": [
-    "javascript",
-    "shallow rendering",
-    "shallowRender",
-    "test",
-    "reactjs",
-    "react",
-    "flux",
-    "testing",
-    "test utils",
-    "assertion helpers",
-    "tdd",
-    "mocha"
-  ],
   "author": "Leland Richardson <leland.richardson@airbnb.com>",
   "license": "MIT",
   "dependencies": {
